@@ -750,3 +750,7 @@
 >8	ubelong+0x120	x		{size:%d}
 >12	ubelong		x		data CRC: 0x%08x,
 >16	string		x		key id: %.4s)
+
+# Draytek Firmware
+9       string  DkmfaaryTedecz  Draytek Firmware Container
+!:mime firmware/draytek
