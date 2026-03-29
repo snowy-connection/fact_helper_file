@@ -752,5 +752,5 @@
 >16	string		x		key id: %.4s)
 
 # Draytek Firmware
-9       string  DkmfaaryTedecz  Draytek Firmware Container
-!:mime firmware/draytek
+9       string  DkmfaaryTedecz  Draytek RTOS Firmware Container
+!:mime firmware/draytek-rtos
